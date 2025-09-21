@@ -1,0 +1,31 @@
+# MicroSense-Edge-AI  
+
+Microwatt Momentum 2025 Hackathon Project  
+**Extending the Microwatt CPU with a Sensor Interface and Tiny AI Accelerator for Edge Applications**
+
+---
+
+## 🔹 Project Summary
+Microwatt (open POWER CPU core) will be extended with:
+1. **Sensor Interface** — allows Microwatt to read sensor data (simulated or via a simple bus).
+2. **Tiny AI Accelerator** — a small MAC (multiply-accumulate) block that performs lightweight neural network operations.
+
+This demonstrates **Microwatt for IoT + AI edge computing** — a CPU that can sense and think.
+
+---
+
+## 🔹 Why This Matters
+IoT devices often read sensors but struggle with AI workloads. By adding an accelerator, Microwatt becomes capable of real-time processing at the edge.  
+This is a step toward **open, customizable CPUs for smart edge applications**.
+
+---
+
+## 🔹 Deliverables
+- Verilog RTL for sensor interface & accelerator  
+- Testbenches and integration with Microwatt  
+- Block diagram and documentation  
+- Simulation results & demo video  
+
+---
+
+## 🔹 Repo Structure

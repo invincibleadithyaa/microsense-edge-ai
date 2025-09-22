@@ -112,7 +112,8 @@ This shows a **full sensor-to-inference loop** on an open CPU.
 - **Adithya A** (GitHub: [invincibleadithyaa](https://github.com/invincibleadithyaa))  
 - **Arjun Saiju** (GitHub: [ArjunSaiju](https://github.com/ArjunSaiju))  
 - **Asil Fawaz** (GitHub: [Asil-projects](https://github.com/Asil-projects))  
-- **Anush P** (GitHub: [Anush-Kashyap](https://github.com/Anush-Kashyap)) 
+- **Anush P** (GitHub: [Anush-Kashyap](https://github.com/Anush-Kashyap))
+- **Johan Shibu** (GitHub: [johanshibu3-alt](https://github.com/johanshibu3-alt)) 
 
 ---
 
